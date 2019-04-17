@@ -9,8 +9,8 @@
         {
             "status": "Authenticated",
             "user": {
-                "username": "ali.azaz",
                 "email": "ali.azaz@gmail.com",
+                "password": "abcd12345",
                 "firstname": "Ali",
                 "id": 88888888,
                 "lastname": "Azaz"
