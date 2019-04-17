@@ -1,0 +1,23 @@
+{
+    "status": {
+        "type": "success",
+        "message": "Success",
+        "code": 200,
+        "error": false
+    },
+    "data": [
+        {
+            "status": "Authenticated",
+            "user": {
+                "username": "ali.azaz",
+                "email": "ali.azaz@gmail.com",
+                "firstname": "Ali",
+                "id": 88888888,
+                "lastname": "Azaz"
+            },
+            "return_to_url": null,
+            "expires_at": "2019/01/07 05:56:21 +0000",
+            "session_token": "9x8869x31134x7906x6x54474x21x18xxx90857x"
+        }
+    ]
+}
